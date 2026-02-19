@@ -1,4 +1,4 @@
-# Eslam Mohamed Sobhi | Intern at Gammal Tech  
+# Eslam Mohamed Sobhi Gammal Tech
 Implementing secure online payment systems using Gammal Tech Payment SDK.
 
 ---
